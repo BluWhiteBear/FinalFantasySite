@@ -1,0 +1,2 @@
+# fuuny
+A fuuny website :)
